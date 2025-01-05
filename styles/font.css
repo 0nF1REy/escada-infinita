@@ -1,0 +1,9 @@
+@font-face {
+    font-family: gamelia;
+    src: url('../assets/font/gamelia.otf') format('truetype');
+}
+
+@font-face {
+    font-family: bm-space;
+    src: url('../assets/font/bm-space.ttf');
+}
